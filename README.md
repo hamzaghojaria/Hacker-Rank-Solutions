@@ -1,2 +1,2 @@
 # HackerRank Solutions
-Hacker Rank Practice Questions Solution
+Hacker Rank Practice Questions Solution of Data Structures and Python
