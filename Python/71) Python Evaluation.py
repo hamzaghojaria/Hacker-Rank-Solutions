@@ -1,0 +1,3 @@
+#Solution:
+
+eval(input())
