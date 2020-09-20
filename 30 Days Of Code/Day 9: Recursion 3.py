@@ -4,7 +4,7 @@
 
 import math
 import os
-import rando
+import random
 import re
 import sys
 
